@@ -1,0 +1,27 @@
+.box {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.container {
+  display: flex;
+  /* flex-direction: row-reverse; */
+  justify-content: center;
+  align-items: end;
+}

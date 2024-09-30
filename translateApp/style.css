@@ -1,0 +1,25 @@
+textarea{
+    display: block;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+button{
+    padding: 6px;
+    font-size: large;
+}
+
+button:hover{
+    background-color: greenyellow;
+}
+
+#output{
+    border: 1px solid black;
+    display: block;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
